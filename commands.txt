@@ -1,0 +1,3 @@
+chmod+x => to make file executable
+./ => to run the file
+ls -l /usr/lib/python/dist-package/name => modeule details
