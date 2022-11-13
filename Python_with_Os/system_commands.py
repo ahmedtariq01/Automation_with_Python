@@ -12,3 +12,5 @@ print(result.stdout)
 print(result.stdout.decode().split())
 result = subprocess.run(['rm', 'does_not_exist'], capture_output=True)
 
+
+
